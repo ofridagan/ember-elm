@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "summary": "helpful summary of your project, less than 80 characters",
+    "summary": "complie all elm files in the project tree to a single elm-mudule.js file",
     "repository": "https://github.com/user/project.git",
     "license": "BSD3",
     "source-directories": [

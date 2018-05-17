@@ -1,7 +1,7 @@
 {
   "name": "ember-elm",
   "version": "0.2.1",
-  "description": "Write Elm in your Ember app",
+  "description": "Complie elm files to js",
   "keywords": [
     "ember-addon",
     "elm",
